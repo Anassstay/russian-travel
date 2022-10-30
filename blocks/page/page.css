@@ -1,0 +1,21 @@
+.page {
+  font-family: 'Inter', Arial, sans-serif;
+  background-color: #2A2C2F;
+  color: #ffffff;
+  font-weight: 400;
+  min-width: 320px;
+  max-width: 1280px;
+  min-height: 100vh;
+  /* можно не задавать, значение полного 1 листа */
+  display: flex;
+  flex-direction: column;
+  /* стандартные значения */
+  margin: 0 auto;
+  padding: 28px 0 24px;
+}
+
+@media screen and (max-width: 568px) {
+  .page {
+    padding-top: 16px;
+  }
+}
