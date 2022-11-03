@@ -12,12 +12,15 @@
 
 /* Header */
 @import url(../blocks/header/header.css);
+@import url(../blocks/header/__lang-links/header__lang-links.css);
 @import url(../blocks/header/__lang-link/header__lang-link.css);
+@import url(../blocks/header/__lang-main/header__lang-main.css);
 @import url(../blocks/header/__logo/header__logo.css);
 
 /* Lead */
 @import url(../blocks/lead/lead.css);
 @import url(../blocks/lead/__caption/lead__caption.css);
+@import url(../blocks/lead/__images/lead__images.css);
 @import url(../blocks/lead/__image/lead__image.css);
 @import url(../blocks/lead/__subtitle/lead__subtitle.css);
 @import url(../blocks/lead/__title/lead__title.css);
@@ -37,6 +40,7 @@
 
 /* Photo-grid */
 @import url(../blocks/photo-grid/photo-grid.css);
+@import url(../blocks/photo-grid/__items/photo-grid__items.css);
 @import url(../blocks/photo-grid/__item/photo-grid__item.css);
 
 /* Place */

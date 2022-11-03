@@ -1,0 +1,14 @@
+.header__lang-links {
+  list-style: none;
+  margin: 0;
+  padding: 0 0 6px 0;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 18px;
+}
+
+@media screen and (max-width: 568px) {
+  .header__lang-links {
+    padding: 0 0 8px 0;
+  }
+}
