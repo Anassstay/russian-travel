@@ -20,7 +20,7 @@
 
 **GitHub Pages**
 
-* [Ссылка на код в  GitHub Pages](https://github.com/Anassstay/russian-travel/blob/main/index.html)
+* [Ссылка GitHub Pages](https://anassstay.github.io/russian-travel/)
 
 ### Проект требует доработки
 
