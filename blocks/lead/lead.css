@@ -2,7 +2,20 @@
   display: flex;
   flex-direction: column;
   align-self: center;
-  max-width: 100%;
-  margin: 0 auto;
+  /* width: 100%; */
+  max-width: 984px;
+  margin: 0 148px;
   box-sizing: border-box;
+}
+
+@media screen and (max-width: 1124px) {
+  .lead {
+  margin: 0 48px;
+  }
+}
+
+@media screen and (max-width: 984px) {
+  .lead {
+    margin: 0;
+  }
 }
