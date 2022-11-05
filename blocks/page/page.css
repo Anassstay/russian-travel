@@ -5,7 +5,7 @@
   font-weight: 400;
   min-width: 320px;
   max-width: 1280px;
-  min-height: 100vh;
+  /* min-height: 100vh; */
   /* можно не задавать, значение полного 1 листа */
   display: flex;
   flex-direction: column;
