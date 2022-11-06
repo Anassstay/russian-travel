@@ -1,5 +1,6 @@
 .photo-grid {
     max-width: calc(100% - 96px);
+    /* width: 100%; */
     margin: 0 48px;
     box-sizing: border-box;
 }
